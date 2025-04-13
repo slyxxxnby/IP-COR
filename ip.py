@@ -600,7 +600,7 @@ class IPGeoLocatorBeta:
         
         # Calcular confianza (0-100%)
         combined["confidence"] = min(100, int((combined["confidence"] / sum(
-            s["weight"] for s in self.services.values())) * 100)
+    s["weight"] for s in self.services.values())) * 100))
         
         return combined
 
