@@ -1,6 +1,6 @@
 # 🌍 IP GeoLocator Pro BETA
 
-![App Screenshot](screenshot.png)
+![App Screenshot](PI.png)
 
 Herramienta avanzada de geolocalización de IP que combina múltiples servicios para máxima precisión.
 
